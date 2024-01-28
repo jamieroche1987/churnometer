@@ -1,0 +1,5 @@
+{"username":"jamesbrandesroche","key":"33c837d45f1029f9d2b112e65aa2801a"}
+import os
+os.environ['KAGGLE_CONFIG_DIR'
+] = os.getcwd()
+! chmod 600 kaggle.json
